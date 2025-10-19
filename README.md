@@ -22,7 +22,7 @@ Each task has its own folder, which includes:
 - The **notebooks** for recreating the final figures.
 
 ---
-p.s you can find prompts and cluster scripts in this repo[text](https://github.com/snamazova/centaur_evaluation),[text](https://github.com/sabrinaholmes/centaur_autoregressive)
+p.s you can find prompts and cluster scripts in this repo [evaluation of centaur as participant simulator](https://github.com/snamazova/centaur_evaluation),[evaluating autoregressive behaviour of centaur](https://github.com/sabrinaholmes/centaur_autoregressive)
 
 ## Contact
 
@@ -34,3 +34,4 @@ If you have any questions about the repository, feel free to contact:
 **Alessandra Brondetta**
 
 📧[albrondetta@uni-osnabrueck.de](mailto:albrondetta@uni-osnabrueck.de)
+
